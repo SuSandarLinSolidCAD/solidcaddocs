@@ -1,2 +1,2 @@
-# solidcaddocs
+# SolidCAD Documentations
 Documentations for SolidCAD Projects
